@@ -1,4 +1,6 @@
 # DiffusionDefogging
+
+<img src="http://drive.google.com/uc?export=view&id=18ou-5xwcILixGNJSmOh1sjfu8N2iHIlK" width="600">
 Diffusion Probabilistic Models for Image Defogging
 
 - `dataset.py`: Data preprocesing (Images downsampled to 512 x 256) and Dataloader functions
